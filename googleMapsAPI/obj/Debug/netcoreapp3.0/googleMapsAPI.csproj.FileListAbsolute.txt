@@ -1,0 +1,11 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\bin\Debug\netcoreapp3.0\googleMapsAPI.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\bin\Debug\netcoreapp3.0\googleMapsAPI.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\bin\Debug\netcoreapp3.0\googleMapsAPI.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\bin\Debug\netcoreapp3.0\googleMapsAPI.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\bin\Debug\netcoreapp3.0\googleMapsAPI.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\bin\Debug\netcoreapp3.0\googleMapsAPI.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\obj\Debug\netcoreapp3.0\googleMapsAPI.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\obj\Debug\netcoreapp3.0\googleMapsAPI.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\obj\Debug\netcoreapp3.0\googleMapsAPI.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\obj\Debug\netcoreapp3.0\googleMapsAPI.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\googleMapsAPI\googleMapsAPI\obj\Debug\netcoreapp3.0\googleMapsAPI.csprojAssemblyReference.cache
